@@ -1,4 +1,4 @@
-# Netflix GPT
+# Netflix
 
 - Create React App
 - Configured TailwindCSS 
